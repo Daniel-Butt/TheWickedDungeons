@@ -1,0 +1,4 @@
+SHOWFPS true
+VSYNC true
+DEBUG false
+MUSIC true

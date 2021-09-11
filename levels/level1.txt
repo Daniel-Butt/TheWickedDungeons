@@ -1,0 +1,262 @@
+level_size 3840 4320
+wall_column 240 2100
+wall_column 600 2100
+wall_column 960 2100
+wall_column 1680 2100
+wall_column 2040 2100
+wall_column 2400 2100
+wall_column 2760 2100
+wall_column 3480 2100
+wall_column 900 3480
+wall_column 1260 3480
+wall_side_left* 2970 2130 2370
+wall_side_left* 3210 2130 2640
+wall_side_left* 3030 2910 3600
+wall_side_left* 3270 3210 3900
+wall_side_left* 3450 2250 2880
+wall_side_left* 3690 2250 3180
+wall_side_left* 3810 1590 2130
+wall_side_left* 3030 870 1110
+wall_side_left* 2550 570 1590
+wall_side_left* 2550 -30 270
+wall_side_left* 3390 90 270
+wall_side_left* 3810 270 570
+wall_side_left* 1410 570 900
+wall_side_left* 1290 2130 2280
+wall_side_left* 1470 2130 3480
+wall_side_left* 630 2310 2580
+wall_side_left* 270 2610 2940
+wall_side_left* 570 3510 4140
+wall_side_right* 2220 2370 3900
+wall_side_right* 2460 2670 3600
+wall_side_right* 2820 1110 1590
+wall_side_right* 2820 570 870
+wall_side_right* 2820 -30 270
+wall_side_right* 3660 90 270
+wall_side_right* 900 270 570
+wall_side_right* 1200 570 900
+wall_side_right* 0 1590 2130
+wall_side_right* 0 2970 3480
+wall_side_right* 360 3510 4140
+wall_top* 0 2130 1260
+wall_top* 1500 2130 2940
+wall_top* 3240 2130 3780
+wall_top* 2220 2370 2940
+wall_top* 2460 2670 3180
+wall_top* 3480 2250 3660
+wall_top* 3060 2910 3420
+wall_top* 2220 3930 3240
+wall_top* 3300 3210 3660
+wall_top* 2820 870 3000
+wall_top* 2820 1110 3000
+wall_top* 900 570 1140
+wall_top* 1440 570 2520
+wall_top* 1200 930 1380
+wall_top* 2820 570 3780
+wall_top* 2580 -30 2760
+wall_top* 2820 270 3360
+wall_top* 3660 270 3780
+wall_top* 660 2310 1260
+wall_top* 0 2970 240
+wall_top* 0 3510 300
+wall_top* 600 3510 1440
+wall_top* 360 4170 540
+swampy 1140 2460 1320 2340 1500 2400
+orc_shaman 420 2820 660 2640 1500 2700
+orc_shaman 3720 1800 3300 1680 3480 2160
+orc_shaman 3120 3720 2580 3720 2640 3960
+orc 840 2820 660 2640 1500 2700
+orc 1320 2820 660 2640 1500 2700
+orc 900 1800 600 1680 660 2160
+orc 3120 2520 3000 2400 3240 2460
+orc 2940 2520 3000 2400 3240 2460
+orc 2760 2520 3000 2400 3240 2460
+chort 2280 1740 1980 1680 2040 2160
+orc 2160 1920 1980 1680 2040 2160
+chort 660 3240 300 3000 1500 3060
+chort 120 3180 300 3000 1500 3060
+chort 2640 180 2580 540 2820 600
+chort 2880 3780 2580 3720 2640 3960
+necromancer 1380 3180 300 3000 1500 3060
+necromancer 2940 1020 2580 1080 2820 1140
+necromancer 1560 420 2340 360 2400 600
+big_zombie 3480 300 3360 360 3420 600
+big_zombie 3540 2460 3480 2940 3720 3060
+player 60 1860
+chest 3540 2340 2
+chest 960 360 0
+chest 120 3060 1
+wall_column 3120 1560
+wall_column 240 1560
+wall_column 600 1560
+wall_column 960 1560
+wall_column 1320 1560
+wall_column 1680 1560
+wall_column 2040 1560
+wall_column 2400 1560
+wall_column 3480 1560
+wall_fountain_blue 1080 1590
+wall_fountain_blue 420 2610
+wall_fountain_blue 2700 3630
+wall_fountain_red 3180 1590
+wall_fountain_red 3420 1590
+wall_fountain_red 1500 270
+wall_top* 900 270 2520
+wall_top* 0 1590 2520
+wall_top* 2820 1590 3780
+wall_top* 2460 3630 3000
+wall_top* 300 2610 600
+wall_goo 360 2160
+wall_goo 120 3540
+wall_goo 3120 3960
+wall_goo 1860 1620
+wall_goo_base 1860 1680
+wall_goo 1200 2340
+wall_goo_base 1200 2400
+wall_goo 3180 2940
+wall_goo_base 3180 3000
+wall_goo 2880 900
+wall_goo_base 2880 960
+wall_banner_red 360 1620
+wall_banner_red 960 300
+wall_banner_red 720 2340
+wall_banner_red 840 2340
+wall_banner_blue 420 1620
+wall_banner_blue 2580 0
+wall_banner_blue 2760 0
+wall_banner_blue 2280 2400
+wall_banner_green 480 1620
+wall_banner_green 3300 1620
+wall_banner_green 120 3000
+wall_banner_yellow 3000 300
+wall_banner_yellow 2340 2400
+wall_banner_yellow 2280 1620
+wall_banner_yellow 780 2340
+skull 1860 2070
+skull 3720 330
+crate 720 1740
+crate 960 2640
+crate 1260 2880
+crate 720 3000
+crate 300 3420
+crate 1080 3480
+crate 1140 3480
+crate 1020 1920
+crate 1860 2100
+crate 1800 2100
+crate 1920 2100
+crate 3660 1920
+crate 3660 1980
+crate 3180 2160
+crate 1440 2160
+crate 3720 360
+crate 2400 360
+crate 2400 540
+crate 2580 1320
+crate 2220 3000
+crate 2220 3060
+crate 2520 3840
+crate 3060 3060
+crate 3660 2760
+crate 840 2760
+crate 900 2820
+coin 1260 780
+coin 1320 810
+coin 1350 870
+coin 2940 960
+coin 3480 180
+coin 3510 180
+coin 3480 210
+coin 3510 210
+coin 3540 180
+coin 3570 180
+coin 3540 210
+coin 3570 210
+coin 2610 2610
+coin 2670 2520
+coin 3120 3480
+coin 3150 3510
+coin 3180 3540
+coin 3210 3570
+coin 1020 1890
+coin 1050 1890
+coin 1350 2250
+coin 1380 2280
+coin 1410 2310
+coin 450 3840
+coin 450 3870
+coin 450 3900
+coin 450 3930
+coin 450 3960
+coin 450 3990
+coin 450 4020
+coin 450 4050
+coin 450 4080
+coin 480 3840
+coin 480 3870
+coin 480 3900
+coin 480 3930
+coin 480 3960
+coin 480 3990
+coin 480 4020
+coin 480 4050
+coin 480 4080
+health_potion 420 4110
+health_potion 480 4110
+strength_potion 1260 840
+health_potion 2640 60
+health_potion 2700 60
+health_potion 3480 2460
+speed_potion 2400 2940
+skull 3600 2340
+door 3480 60
+doors_frame_top 3480 48
+doors_frame_left 3420 60
+doors_frame_right 3600 60
+wall* 0 1620 2520
+wall* 0 2160 1260
+wall* 1500 2160 2940
+wall* 2820 1620 3780
+wall* 3240 2160 3780
+wall* 2220 2400 2940
+wall* 2460 2700 3180
+wall* 3480 2280 3660
+wall* 3060 2940 3420
+wall* 2460 3660 3000
+wall* 2220 3960 3240
+wall* 3300 3240 3660
+wall* 2820 900 3000
+wall* 2820 1140 3000
+wall* 900 300 2520
+wall* 900 600 1140
+wall* 1440 600 2520
+wall* 1200 960 1380
+wall* 2820 600 3780
+wall* 2580 0 2760
+wall* 2820 300 3360
+wall* 3660 300 3780
+wall* 660 2340 1260
+wall* 300 2640 600
+wall* 0 3000 240
+wall* 0 3540 300
+wall* 600 3540 1440
+wall* 360 4200 540
+floor* 0 1680 3780 2100
+floor* 1320 2160 1440 3480
+floor* 660 2400 1260 2640
+floor* 300 2700 1260 3000
+floor* 0 3060 1260 3480
+floor* 360 3540 540 4170
+floor* 2580 60 2760 1620
+floor* 900 360 2520 540
+floor* 2820 360 3780 540
+floor* 3420 180 3600 300
+floor* 1200 600 1380 900
+floor* 2820 960 3000 1080
+floor* 3000 2160 3180 2640
+floor* 2220 2460 2940 2640
+floor* 2220 2700 2400 3900
+floor* 2460 3720 3240 3900
+floor* 3060 3000 3240 3660
+floor* 3300 3000 3660 3180
+floor* 3480 2340 3660 2940

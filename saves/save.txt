@@ -1,0 +1,14 @@
+currentLevel 3
+type 5
+weaponType 1
+healthPotions 0
+bigHealthPotions 0
+strengthPotions 0
+bigStrengthPotions 0
+defencePotions 0
+bigDefencePotions 0
+speedPotions 0
+bigSpeedPotions 0
+coins 68
+score 999999
+slain 33

@@ -1,0 +1,120 @@
+level_size 1920 1080
+wall_column 60 720
+wall_column 720 720
+wall_column 1020 720
+wall_column 1740 720
+wall_column 720 180
+wall_column 360 180
+wall_fountain_blue 1440 210
+wall_fountain_red 510 210
+wall_side_right* 240 90 210
+wall_side_right* 0 90 750
+wall_side_right* 1260 750 990
+wall_side_right* 360 750 990
+wall_side_left* 1890 210 750
+wall_side_left* 1530 750 990
+wall_side_left* 570 750 990
+wall_side_mid_right 1080 180
+wall_side_mid_left 1770 0
+wall_side_mid_left 1770 60
+wall_side_mid_left 1770 120
+wall_side_mid_left 870 0
+wall_side_mid_left 870 60
+wall_side_mid_left 870 120
+wall_side_mid_left 870 180
+wall_side_top_left 870 -30
+wall_top* 600 750 1200
+wall_top* 1560 750 1860
+wall_top* 0 750 300
+wall_top* 1080 210 1860
+wall_top* 240 210 840
+wall_top* 360 990 540
+wall_top* 1080 150 1740
+wall_top* 900 -30 1740
+wall_top_right 1500 990
+wall_top_left 1260 990
+wall_top_mid 1380 990
+wall_top_mid 1320 990
+wall_top_mid 1440 990
+orc_shaman 240 480 960 360 1020 720
+orc_shaman 1560 60 1020 60 1080 180
+orc 1380 660 1320 780 1500 840
+orc 420 780 360 660 600 780
+orc 480 780 360 660 600 780
+player 1380 870
+health_potion 1140 540
+big_health_potion 420 900
+defence_potion 480 900
+coin 60 180
+coin 90 210
+coin 150 180
+coin 180 210
+coin 420 780
+coin 510 780
+coin 420 870
+coin 510 870
+coin 1350 690
+coin 1380 690
+coin 1410 690
+coin 1440 690
+coin 1230 120
+coin 1230 90
+coin 1230 60
+chest 1680 60 0
+door 60 60
+skull 1320 780
+skull 1440 780
+skull 900 90
+skull 780 300
+skull 1380 300
+skull 300 300
+crate 180 600
+crate 900 120
+wall_goo 1140 240
+wall_goo_base 1140 300
+wall_goo 960 0
+wall_goo_base 960 60
+wall_banner_red 420 240
+wall_banner_blue 660 240
+wall_banner_green 1680 0
+doors_frame_top 60 48
+doors_frame_left 0 60
+doors_frame_right 180 60
+wall* 600 780 1200
+wall* 1560 780 1860
+wall* 0 780 300
+wall* 1080 240 1860
+wall* 240 240 840
+wall* 360 1020 540
+wall* 900 0 1740
+wall* 1080 180 1740
+wall_mid 1380 1020
+wall_mid 1320 1020
+wall_mid 1440 1020
+wall_left 1260 1020
+wall_right 1500 1020
+floor* 0 300 1890 750
+floor* 360 780 540 960
+floor* 0 180 180 240
+floor* 900 60 1020 240
+floor* 1080 60 1740 120
+floor_1 1380 960
+floor_1 1320 960
+floor_1 1440 960
+floor_1 1380 780
+floor_1 1320 780
+floor_1 1440 780
+floor_1 1380 840
+floor_1 1320 840
+floor_1 1440 840
+floor_1 1380 900
+floor_1 1320 900
+floor_1 1440 900
+floor_1 1260 960
+floor_1 1260 900
+floor_1 1260 840
+floor_1 1260 780
+floor_1 1500 960
+floor_1 1500 900
+floor_1 1500 840
+floor_1 1500 780

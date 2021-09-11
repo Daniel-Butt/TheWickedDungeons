@@ -1,0 +1,50 @@
+level_size 1920 2160
+wall_side_left* 829 1350 2070
+wall_side_left* 349 390 1350
+wall_side_left* 1350 90 360
+wall_side_right* 1121 1350 2070
+wall_side_right* 1601 90 1350
+wall_column 420 1320
+wall_column 1500 1320
+wall_column 720 1320
+wall_column 1200 1320
+wall_top* 360 1350 780
+wall_top* 1140 1350 1560
+wall_top* 840 2070 1080
+boss_demon 840 780 840 1260 1140 1320
+player 960 1920
+wall_fountain_red 540 390
+wall_fountain_red 840 390
+wall_fountain_red 1140 390
+wall_column 420 360
+wall_column 1260 360
+wall_column 660 360
+wall_column 1020 360
+wall_top* 360 390 1320
+door 1440 60 1
+doors_frame_top 1440 48
+doors_frame_left 1380 60
+doors_frame_right 1560 60
+wall_banner_red 480 1380
+wall_banner_blue 540 1380
+wall_banner_green 600 1380
+wall_banner_yellow 660 1380
+wall_banner_red 1440 1380
+wall_banner_blue 1380 1380
+wall_banner_green 1320 1380
+wall_banner_yellow 1260 1380
+wall_banner_red 780 420
+wall_banner_red 900 420
+skull 1380 210
+crate 1380 240
+skull 840 1290
+skull 1080 1290
+crate 840 1320
+crate 1080 1320
+wall* 360 420 1320
+wall* 360 1380 780
+wall* 1140 1380 1560
+wall* 840 2100 1080
+floor* 840 1380 1080 2040
+floor* 360 480 1560 1320
+floor* 1380 180 1560 420
